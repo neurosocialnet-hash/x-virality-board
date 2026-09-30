@@ -1,0 +1,77 @@
+{
+  "title": "Daily X narrative digest — 2026-09-30",
+  "date": "2026-09-30",
+  "timezone": "Europe/London",
+  "updated": "2026-09-30T03:46:00+01:00",
+  "brand_title": "Connectrom X Virality Score",
+  "brand_handle": "@connectrom",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [],
+  "virals_narrative": "Awaiting first read-only X digest.",
+  "narrative_synthesis": "Awaiting first read-only X digest.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-09-29",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-09-30",
+    "tracking_start": "2026-09-30",
+    "days_included": [
+      "2026-09-30"
+    ],
+    "month_days_included": [
+      "2026-09-30"
+    ],
+    "week": {
+      "label": "Rolling week",
+      "range": [
+        "2026-09-30",
+        "2026-09-30"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "September 2026",
+      "range": [
+        "2026-09-30",
+        "2026-09-30"
+      ],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026"
+  },
+  "operator": {
+    "handle": "@connectrom",
+    "name": "connectrom",
+    "profile_url": "https://x.com/connectrom"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [],
+  "you_rank": null
+}
