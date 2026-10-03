@@ -1,54 +1,50 @@
 {
-  "title": "Daily X narrative digest — public fallback",
+  "title": "Daily X narrative digest — 2026-10-03",
   "date": "2026-10-03",
   "timezone": "Europe/London",
-  "updated": "2026-10-03T12:54:00+01:00",
+  "updated": "2026-10-03T13:27:52+01:00",
   "brand_title": "Connectrom X Virality Score",
   "brand_handle": "@connectrom",
+  "collector_mode": "public_fallback_clean_epoch",
+  "tracking_start": "2026-10-03T00:00:00",
+  "tracking_policy": "Only posts created on/after tracking_start can score. Older search-index remnants are excluded.",
+  "metric_policy": "No inferred or invented view counts; unknown remains unknown.",
+  "thresholds": {
+    "min_views": 5000,
+    "star_views": 10000
+  },
+  "source_status": {
+    "google": {
+      "queries_ok": 3,
+      "errors": []
+    },
+    "bing": {
+      "queries_ok": 3,
+      "errors": []
+    },
+    "duckduckgo": {
+      "queries_ok": 3,
+      "errors": []
+    }
+  },
+  "discovered_candidates": 0,
+  "excluded_pre_epoch": 0,
+  "excluded_candidates": [],
+  "public_posts_found": 0,
+  "verified_view_metrics": 0,
+  "unknown_metrics": [],
   "hits": [],
+  "hits_count": 0,
   "virals": [],
   "outsiders": [],
   "patterns": [],
   "no_hits": [],
-  "virals_narrative": "Public fallback active. Public web sources can confirm indexed activity associated with @connectrom, but verified X view counts are not currently available, so no post is promoted to a 5,000/10,000-view hit.",
-  "narrative_synthesis": "Read-only public fallback active; no X login, cookies, tokens, or automated account actions are used.",
-  "virals_window": "public indexed sources; freshness varies",
-  "virals_target": 20,
-  "hits_count": 0,
-  "outsiders_count": 0,
-  "previous_day": {
-    "date": "2026-10-02",
-    "hits_count": 0,
-    "total_views": 0,
-    "x_score": 0
-  },
-  "leaderboards": {
-    "as_of": "2026-10-03",
-    "tracking_start": "2026-10-03",
-    "days_included": ["2026-10-03"],
-    "month_days_included": ["2026-10-03"],
-    "week": {"label": "Rolling week", "range": ["2026-10-03", "2026-10-03"], "entries": []},
-    "month": {"label": "October 2026", "range": ["2026-10-03", "2026-10-03"], "entries": []}
-  },
-  "board_features": {
-    "count_up": true,
-    "live_pulse": true,
-    "theme_toggle": true,
-    "themes": ["night", "day"],
-    "grok_ambient": true,
-    "week_month_boards": true,
-    "day_roster_best_total": true,
-    "day_compare_chart": true,
-    "week_strip": true,
-    "no_hits_reasons": true,
-    "marker_class": "xvs-dash-2026"
-  },
   "operator": {
     "handle": "@connectrom",
     "name": "connectrom",
     "profile_url": "https://x.com/connectrom"
   },
-  "ui": {"default_theme": "night"},
-  "day_roster": [],
-  "you_rank": null
+  "ui": {
+    "default_theme": "night"
+  }
 }
