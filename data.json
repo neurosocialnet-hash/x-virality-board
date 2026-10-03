@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest — 2026-10-03",
   "date": "2026-10-03",
   "timezone": "Europe/London",
-  "updated": "2026-10-03T13:27:52+01:00",
+  "updated": "2026-10-03T18:11:48+01:00",
   "brand_title": "Connectrom X Virality Score",
   "brand_handle": "@connectrom",
   "collector_mode": "public_fallback_clean_epoch",
@@ -27,9 +27,120 @@
       "errors": []
     }
   },
-  "discovered_candidates": 0,
-  "excluded_pre_epoch": 0,
-  "excluded_candidates": [],
+  "discovered_candidates": 10,
+  "excluded_pre_epoch": 10,
+  "excluded_candidates": [
+    {
+      "id": "2095935175586959827",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2095935175586959827",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-09-04T18:01:01.109000+00:00"
+    },
+    {
+      "id": "2096533549663043891",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2096533549663043891",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-09-06T09:38:44.606000+00:00"
+    },
+    {
+      "id": "2094660154130129354",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2094660154130129354",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-09-01T05:34:32.305000+00:00"
+    },
+    {
+      "id": "2094566056589423046",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2094566056589423046",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-08-31T23:20:37.703000+00:00"
+    },
+    {
+      "id": "2093439746294849645",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2093439746294849645",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-08-28T20:45:04.403000+00:00"
+    },
+    {
+      "id": "2094432624034845045",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2094432624034845045",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-08-31T14:30:24.903000+00:00"
+    },
+    {
+      "id": "2104937681507471523",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2104937681507471523",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-09-29T14:13:45.779000+00:00"
+    },
+    {
+      "id": "2094806245072916507",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2094806245072916507",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-09-01T15:15:03.100000+00:00"
+    },
+    {
+      "id": "2093388295799468183",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2093388295799468183",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-08-28T17:20:37.649000+00:00"
+    },
+    {
+      "id": "2093668581670088931",
+      "handle": "@connectrom",
+      "url": "https://x.com/connectrom/status/2093668581670088931",
+      "views": null,
+      "views_verified": false,
+      "sources": [
+        "duckduckgo"
+      ],
+      "created_at": "2026-08-29T11:54:23.008000+00:00"
+    }
+  ],
   "public_posts_found": 0,
   "verified_view_metrics": 0,
   "unknown_metrics": [],
